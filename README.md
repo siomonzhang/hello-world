@@ -4,4 +4,4 @@
 * end
 * what if there is some one?
 * qqq
-* ttt
+* merge succeeded
